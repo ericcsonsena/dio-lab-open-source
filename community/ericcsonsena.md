@@ -49,9 +49,8 @@ Ferramentas
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-Repositorio
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?ERICCSONSENA=ERICCSONSENA&repo=dio-lab-open-source/ericcsonsena&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ERICCSONSENA/dio-lab-open-source/ericcsonsena)
+
 
 
 
